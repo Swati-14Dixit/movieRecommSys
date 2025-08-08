@@ -26,7 +26,7 @@ Sample datasets:
 
 
 💡 How It Works
-1. Upload your `dataset.csv` file
+1. Upload your `dataset.csv` file (I have uploaded in the files section for your reference).
 2. Preprocesses the data using `pandas`
 3. Extracts features and creates vectors
 4. Calculates similarity scores using `cosine_similarity`
